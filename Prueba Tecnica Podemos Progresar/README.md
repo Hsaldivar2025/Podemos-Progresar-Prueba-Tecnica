@@ -11,6 +11,7 @@ A continuación se les compartirá un breve resumen de cada situación, el impac
   a) Las reglas de negocio que rigen a ambos productos deben deben de ser revisadas, ya que pudieran estar siendo demasiado flexibles, lo que aumenta el riesgo de prestar a clientes que nos aumentan el riesgo de no pago.
 
   b) Se requiere una estrategia de contención y recuperación, identificando las zonas especificas que están siendo mayor afectadas, algunas sugerencias para poder crear una estrategia son las siguientes: 
+  
     1) Revisar los tramos de control para asegurar que se tiene una gestión optima
     2) Crear una campaña de cobranza que premie la recuperación de las cuentas que han brincado los buckets en cuestión
     3) Identificar las tipos de créditos y semanas frecuentes en las cuales los clientes dejan de pagar y aumenta el riesgo, esto para tomar medidas preventivas que permitan asegurar el pago.
@@ -20,7 +21,7 @@ A continuación se les compartirá un breve resumen de cada situación, el impac
 
   2.- Aumento de Crédito Promedio:
       Para este caso tenemos que implmentar estrategias que nos ayuden a aumentar nuestra colocación promedio, pero cuidando la calidad de la colocación, no solo por temas de mora para la organización, si no, cuidando también a nuestros clientes evitando sobre endeudarlos, apoyandoloes a tener finanzas sanas.
-    Este tema se abordará desde un punto metodológico y consentido social, ya que aumentar el ticket promedio, es sinónimo de un préstamo mayor a nuestros clientes, los cuales debemos de cuidar.
+    Este tema se abordará desde un punto metodológico y con sentido social, ya que aumentar el ticket promedio, es sinónimo de un préstamo mayor a nuestros clientes, los cuales debemos de cuidar.
 
   a) Se recomienda analizar la composición de los créditos a nivel cliente, conocer como ha sido su desempeño dentro de los grupos.
   - Los principales clientes potenciales para aumentar el desembolso son aquellos que ya demostraron buenos coportamientos de pago con más de dos ciclos dentro del grupo, eso minimiza el riesgo de fraude o mora.
@@ -35,7 +36,8 @@ En resumen, tendríamos un sistema de puntos donde se otorgarían créditos mayo
 
 
   3.- Eficiencia Operativa
-    Como parte del crecimiento de todas las organizaciones, es importante actualizar, herramientas y procesos para mantenerse a la vanguardia, para este caso, exploramos algunas consideraciones que debemos de tener:
+  
+    Como parte del crecimiento de todas las organizaciones, es importante actualizar herramientas y procesos para mantenerse a la vanguardia, para este caso, exploramos algunas consideraciones que debemos de tener:
 
   a) automatizar procesos con herramientas digitales, es una muy buena inversión, ya que minimiza tiempos de respuesta al tener datos automatizados y disminuye el margen de error al contar con campos ya predeterminados
   

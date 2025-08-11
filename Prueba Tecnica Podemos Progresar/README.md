@@ -11,10 +11,9 @@ A continuación se les compartirá un breve resumen de cada situación, el impac
   a) Las reglas de negocio que rigen a ambos productos deben deben de ser revisadas, ya que pudieran estar siendo demasiado flexibles, lo que aumenta el riesgo de prestar a clientes que nos aumentan el riesgo de no pago.
 
   b) Se requiere una estrategia de contención y recuperación, identificando las zonas especificas que están siendo mayor afectadas, algunas sugerencias para poder crear una estrategia son las siguientes: 
-  
-    1) Revisar los tramos de control para asegurar que se tiene una gestión optima
-    2) Crear una campaña de cobranza que premie la recuperación de las cuentas que han brincado los buckets en cuestión
-    3) Identificar las tipos de créditos y semanas frecuentes en las cuales los clientes dejan de pagar y aumenta el riesgo, esto para tomar medidas preventivas que permitan asegurar el pago.
+      1) Revisar los tramos de control para asegurar que se tiene una gestión optima
+      2) Crear una campaña de cobranza que premie la recuperación de las cuentas que han brincado los buckets en cuestión
+      3) Identificar las tipos de créditos y semanas frecuentes en las cuales los clientes dejan de pagar y aumenta el riesgo, esto para tomar medidas preventivas que permitan asegurar el pago.
 
   c) Como medidas a mediano-largo plazo sería un gran agregado aumentar los medios de pago, facilitando a los clientes realizar los depositos, ya fuese por transferencias o canales más comunes como centros comerciales y tiendas de autoservicio
 

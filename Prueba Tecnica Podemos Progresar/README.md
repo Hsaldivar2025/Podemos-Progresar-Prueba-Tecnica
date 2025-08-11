@@ -36,7 +36,7 @@ En resumen, tendríamos un sistema de puntos donde se otorgarían créditos mayo
 
   3.- Eficiencia Operativa
   
-    Como parte del crecimiento de todas las organizaciones, es importante actualizar herramientas y procesos para mantenerse a la vanguardia, para este caso, exploramos algunas consideraciones que debemos de tener:
+Como parte del crecimiento de todas las organizaciones, es importante actualizar herramientas y procesos para mantenerse a la vanguardia, para este caso, exploramos algunas consideraciones que debemos de tener:
 
   a) automatizar procesos con herramientas digitales, es una muy buena inversión, ya que minimiza tiempos de respuesta al tener datos automatizados y disminuye el margen de error al contar con campos ya predeterminados
   
